@@ -19,6 +19,9 @@ layout: handbook
                 <li><a href="{{child.url}}">{{child.title}}</a></li>
             {% endfor %}
         {% endfor %}
+            <li class="nav-header">Further information</li>
+            <li><a href="http://okfn.booktype.pro/spending-data-handbook/">Contribute to the book</a></li>
+            <li><a href="spending-data-handbook.pdf"><strong>Download a PDF version</strong></a></li>
         </ul>
     </div>
     <div class="span8">
