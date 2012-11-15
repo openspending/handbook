@@ -17,7 +17,8 @@ span.pagenumber {
   font-family: "OpenSansRegular";
 }
 
-p, li {
+p, li, #note,
+.objavi-subsection {
   font-size: 15px;
   line-height: 20px;
   text-align: justify;
