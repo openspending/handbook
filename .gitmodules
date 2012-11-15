@@ -1,0 +1,3 @@
+[submodule "BookJS"]
+	path = BookJS
+	url = https://github.com/sourcefabric/BookJS.git
