@@ -1,0 +1,24 @@
+
+@import url("http://assets.openspending.org/branding/fonts/opensans/stylesheet.css");
+
+h1, h2, h3, h4, h5,
+#booktitle
+{
+  font-family: "OpenSansSemiBold";
+}
+
+#frontmatterraw {
+  font-family: "OpenSansRegular";
+}
+
+span.section,
+span.chapter,
+span.pagenumber {
+  font-family: "OpenSansRegular";
+}
+
+p, li {
+  font-size: 15px;
+  line-height: 20px;
+  text-align: justify;
+}
